@@ -24,4 +24,4 @@ Summary Statistics for December
 
 December Visualization of Temperature Readings and Frequency
 
-![images/December_visual.png](images/December_visual.png)
+![images/Dec_visual.png](images/Dec_visual.png)
